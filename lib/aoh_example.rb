@@ -23,8 +23,8 @@ def literal_aoh
   # held in the constants
   [
     {name: "Don Gately", occupation: "Live-in Staff"},
-    {name: "Joelle Van Dyne", occupation: "Radio Personality"},
-    {name: "Pat Monteseian", occupation: "None"},
+    {name: "Joelle van Dyne", occupation: "Radio Personality"},
+    {name: "Pat Monteseian", occupation: "Staff"},
     {name: "Kate Gompert", occupation: "None"},
     {name: "Bruce Green", occupation: "Fan of Mildred"}
     ]
